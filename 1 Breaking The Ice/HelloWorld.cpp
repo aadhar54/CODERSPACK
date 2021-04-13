@@ -1,9 +1,13 @@
-// Simple C++ program to display "Hello World" 
+/*
+Simple C++ program to display "Hello World" 
 
-// Header file for input output functions 
+Header file for input output functions 
+
+This code prints Hello World
+*/
 #include<iostream> 
 
-using namespace std; 
+using namespace std;
 
 // main function - 
 // where the execution of program begins 
@@ -11,6 +15,7 @@ int main()
 { 
 	// prints hello world 
 	cout<<"Hello World"; 
-	
 	return 0; 
-} 
+}
+
+

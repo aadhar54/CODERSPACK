@@ -6,6 +6,7 @@ int main(){
 	int a[100]; // defining array with 100 elements
 	cout<<a[0]<<endl;
 	//0 ........99 
+	cout<<a[1]; //garbage value
 	a[0]=5;
 	cout<<a[1]<<endl; // 0 
 
